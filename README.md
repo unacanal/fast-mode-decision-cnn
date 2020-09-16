@@ -3,7 +3,7 @@
 - Project topic: Fast mode decision method for Versatile Video Coding (VVC) using Convolution Neural Network (CNN)
 </br></br>
 # Plan
-### 1. Survey research papers related to the topic on HEVC and VVC
+### 1. Survey research papers related to the topic on HEVC and VVC.
 
 | Title | Published | Year | Standard | Tags |
 |-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----|----------|-------------------------------------|
@@ -38,6 +38,5 @@
 |HEVC Complexity and Implementation Analysis                                                                 |TCSVT                                                               |2012|HEVC      |Survey &#124; Overview                    |
 |Block Partitioning Structure in the HEVC Standard                                                           |TCSVT                                                               |2012|HEVC      |Survey &#124; Overview                    |
 
-</br></br>
-### 2. Choose one paper and implement it in VVC
+### 2. Choose one paper and implement it in VVC Test Model (VTM).
 
